@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Carsen (@ctw7)
-- 👀 I’m interested in FOSS, GNU/Linux, Making cool stuff, Full-stack dev, and much much more.
-- 🌱 I’m currently learning three.js, webGL, blender, pythreejs, etc 
-- 💞️ I’m looking to collaborate on interesting projects
+- 👋 Hi, I’m Carsen
+- 👀 I’m interested in FOSS, GNU/Linux, Making cool stuff
 - 📫 You can reach me by E-Mail at ctw7@posteo.net
 
 <!---
